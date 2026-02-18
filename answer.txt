@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: in bio we can analyze infection cases to figure out who and why they happen
