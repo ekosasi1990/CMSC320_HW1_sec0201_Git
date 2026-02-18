@@ -6,4 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: in bio we can track infection cases to figure out where and who
 
+Q3: What is the difference between Merging and Rebasing
 
+Answer: Merging is essentially simultaneous, rebasing is linear
