@@ -1,3 +1,9 @@
 Q1: Why might we consider using Git?
 
 Answer: for file sharing
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: in bio we can track infection cases to figure out where and who
+
+
