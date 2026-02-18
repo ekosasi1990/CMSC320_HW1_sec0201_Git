@@ -9,3 +9,7 @@ Answer: in bio we can track infection cases to figure out where and who
 Q3: What is the difference between Merging and Rebasing
 
 Answer: Merging is essentially simultaneous, rebasing is linear
+
+Q4: What are you looking forward to this semester?
+
+Answer: learning about data science
